@@ -5,8 +5,7 @@ Estudante de Engenharia de Software com foco em programação, análise de dados
 
 🤖 Linguagens e Tecnologias
 
-<img 
-    padding-right:10px;"
+<img
 src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
 
 <img 
